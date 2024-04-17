@@ -25,7 +25,7 @@ authenticate(Sys.getenv("GITHUB_PAT"), ""),
 write_disk(path = temp_file))
 ordglm <- readxl::read_excel(temp_file)
 # Estimate Generalized Linear Ordinal Regression Models Use Package gnlm (ordglm) With (In) R Software
-ordglm(Test$y~Test$carrier, weights=Test$wt)
+ordglm(ordglm$y~ordglm$carrier, weights=ordglm$wt)
 # Generalized Linear Ordinal Regression Models Use Package gnlm (ordglm) With (In) R Software
 # Ordinal Generalized Linear Models Use Package gnlm (ordglm) With (In) R Software
 # Olah Data Semarang
