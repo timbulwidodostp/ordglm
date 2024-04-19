@@ -3,6 +3,8 @@ Generalized Linear Ordinal Regression Models Use Package gnlm (ordglm) With (In)
 
 Ordinal Generalized Linear Models Use Package gnlm (ordglm) With (In) R Software
 
+https://www.youtube.com/watch?v=KcWy_JrDSQg
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
